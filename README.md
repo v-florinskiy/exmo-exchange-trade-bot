@@ -7,4 +7,7 @@
 const apiKey = 'YOUR-API-KEY';
 const apiSecret = 'YOUR-API-SECRET';
 ```
-5) node index.js
+5) Start
+```
+node index.js
+```
